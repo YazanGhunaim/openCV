@@ -1,0 +1,3 @@
+/Users/yazanghunaim/Documents/openCV/webcam/CMakeFiles/webcam.dir
+/Users/yazanghunaim/Documents/openCV/webcam/CMakeFiles/edit_cache.dir
+/Users/yazanghunaim/Documents/openCV/webcam/CMakeFiles/rebuild_cache.dir
