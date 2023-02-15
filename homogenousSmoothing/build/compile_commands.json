@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/yazanghunaim/Documents/openCV/homogenousSmoothing/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.7.0_1/include/opencv4 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17 -o CMakeFiles/homogenousSmoothing.dir/main.cpp.o -c /Users/yazanghunaim/Documents/openCV/homogenousSmoothing/main.cpp",
+  "file": "/Users/yazanghunaim/Documents/openCV/homogenousSmoothing/main.cpp"
+}
+]
