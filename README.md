@@ -1,2 +1,2 @@
-# Face-Detection-Software
-A face detection program implemented in C++ using the OpenCV API
+# messing around with openCV API
+1 - the thinker, proof that young me was indeed the thinker
