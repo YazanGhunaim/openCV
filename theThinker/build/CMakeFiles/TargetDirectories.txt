@@ -1,0 +1,3 @@
+/Users/yazanghunaim/Documents/Face-Detection-Software/build/CMakeFiles/Face-Detection-Software.dir
+/Users/yazanghunaim/Documents/Face-Detection-Software/build/CMakeFiles/edit_cache.dir
+/Users/yazanghunaim/Documents/Face-Detection-Software/build/CMakeFiles/rebuild_cache.dir
