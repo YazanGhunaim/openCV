@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     Mat image = imread("media/theThinker.jpg");
-
+    
     if (image.empty())
     {
         cout << "Could not open or find the image" << endl;
